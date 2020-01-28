@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68f13958-cbe1-49a1-b39e-76fbc0d57ebe" name="Default Changelist" comment="" />
+    <list default="true" id="68f13958-cbe1-49a1-b39e-76fbc0d57ebe" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/hackerRank/SimpleArraySum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/hackerRank/SimpleArraySum.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/hackerRank/SimpleArraySum.cs" root0="FORCE_HIGHLIGHTING" />
@@ -19,6 +24,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1X2W0RjTNYo9kILktLjrw8pzx6h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -52,6 +59,7 @@
       <updated>1580244447421</updated>
       <workItem from="1580244457479" duration="56000" />
       <workItem from="1580244553425" duration="201000" />
+      <workItem from="1580244862347" duration="22000" />
     </task>
     <servers />
   </component>

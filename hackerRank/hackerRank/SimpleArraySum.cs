@@ -11,12 +11,12 @@ namespace SimpleArraySum
     {
         static int simpleArraySum(int[] ar)
         {
-            int total = 0;
+            int sum = 0;
             foreach (int n in ar)
             {
-                total += n;
+                sum += n;
             }
-            return total;
+            return sum;
         }
 
         static void Main(string[] args)
