@@ -38,6 +38,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompareTheTriplets.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleArraySum.cs" />
   </ItemGroup>
